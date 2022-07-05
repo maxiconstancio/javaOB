@@ -1,6 +1,6 @@
 package exercise2;
 
-public class exercise {
+public class Exercise {
     public static void main(String[] args) {
 
        double precio = 100;

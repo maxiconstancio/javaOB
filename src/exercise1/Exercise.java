@@ -1,6 +1,6 @@
 package exercise1;
 
-public class exercise {
+public class Exercise {
     public static void main(String[] args) {
         int intNumber = 12;
         long longNumber = 123456789L;
